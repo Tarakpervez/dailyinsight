@@ -1,1 +1,1 @@
-# dailyinsight
+#index.html
